@@ -2,14 +2,17 @@ team: Panthers
 
 manager: Sebastian
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+
+coach: Shirley
+coach: Raymond
+
+>>>>>>> a4984bb3d1e6f8d8a9c594caa77e9a926e785ffa
 
 members:
 - Violet
 - Stella
 - Anthony
-<<<<<<< HEAD
-- Maruchi
-=======
-- Arachi
->>>>>>> 3760cb372005740e1f9f60a7b323d4045484e117
+- Marachi
